@@ -59,15 +59,3 @@
 <img align="left" src="https://komarev.com/ghpvc/?username=iflames1&style=flat-square&color=blue" alt=""/>
 
 ###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Flames">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Flames&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
